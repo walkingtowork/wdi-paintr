@@ -29,6 +29,7 @@ gem 'jquery-rails'
 
 # Use unicorn as the app server
 gem 'unicorn'
+gem 'carrierwave'
 
 # Deploy with Capistrano
 # gem 'capistrano'
